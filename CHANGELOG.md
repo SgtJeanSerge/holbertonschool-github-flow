@@ -1,4 +1,3 @@
-## v1.0.1
-   - Updated both the introduction and history documents to improve clarity and project context.
-   - Resolved a merge conflict in docs/collaboration.md by establishing guidelines on adaptability, trust, and team alignment.
-
+## v1.1.0
+- Updated introduction and project history documentation.
+- Resolved merge conflict and updated collaboration guidelines in docs/collaboration.md.
